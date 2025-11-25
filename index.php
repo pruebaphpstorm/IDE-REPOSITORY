@@ -1,6 +1,6 @@
 <?php
 // ruleta_svg_realista.php
-// Versión realista (SVG) — guarda y abre en servidor local (XAMPP/Apache)
+// Versión realista (SVG) — guarda y abre en servidorlocal (XAMPP/Apache)
 
 $numeroGanador = null;
 $resultado = null;
